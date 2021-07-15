@@ -47,6 +47,7 @@ Citizen.CreateThread(function()
               -- Space for the subtitle
               BeginScaleformMovieMethodOnFrontendHeader("SHIFT_CORONA_DESC")
               PushScaleformMovieFunctionParameterBool(true)
+              PushScaleformMovieFunctionParameterBool(true)
               PopScaleformMovieFunction()
 
               -- The title text
